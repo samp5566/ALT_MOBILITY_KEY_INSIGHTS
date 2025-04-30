@@ -18,6 +18,9 @@ Executed SQL queries for detailed analysis to address the following challenges
 ## Customer Retention with Power BI
 The final stage involved a focused analysis of customer retention. A dynamic dashboard was created in Power BI by directly connecting to the MySQL database. This dashboard was designed to track customer churn patterns. 
 
+![Screenshot 2025-04-30 193442](https://github.com/user-attachments/assets/cfba89d7-7472-44e9-8dec-50c62c84a926)
+
+
 This data-driven analysis aims to provide Alt Mobility with the following benefits:
 1)	Improved order fulfillment
 2)	Deeper understanding of revenue trends for strategic decisions
